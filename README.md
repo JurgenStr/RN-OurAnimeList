@@ -21,3 +21,5 @@ This application consists of:
   - https://www.figma.com/file/foLVBUTtD3Zx39E59s3Fuk/Concept-1?node-id=0%3A1
 - GitLab
   - https://gitlab.com/JurgenStrek/ouranimelist
+- GitHub
+  - https://github.com/JurgenStr/RN-OurAnimeList
